@@ -101,6 +101,7 @@ def main():
         elif choice == 3:
             delete_task()
         elif choice == 4:
+            print("Goodbye!")
             break  # Exit application
 
 
