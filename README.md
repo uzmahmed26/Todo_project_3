@@ -13,8 +13,8 @@ Mark as Complete/Incomplete: Toggle the status of a task between "Complete" and 
 Requirements
 Python 3.13 or higher
 How to Run
-Navigate to the src directory:
-cd src
+Navigate to the directory:
+cd folder name
 Run the application:
 python todo.py
 Usage
